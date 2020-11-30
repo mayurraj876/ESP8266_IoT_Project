@@ -24,15 +24,15 @@ const int smokeA0 = A0;// gas sensor
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "pleasework"
-#define WLAN_PASS       "pleasework"
+#define WLAN_SSID       "$$$$$$$"
+#define WLAN_PASS       "$$$$$$$"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "Nandini_mittal"
-#define AIO_KEY         "aio_ShbC094gossPRyLUgredzcWJ9YUL"
+#define AIO_USERNAME    "###############"
+#define AIO_KEY         "######################"
 
 /************ Global State (you don't need to change this!) ******************/
 
